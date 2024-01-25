@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MongoDb, Advanace Node.js**
 
-- 👨‍💻 All of my projects are available at [mayurportfolio-six.vercel.app/](mayurportfolio-six.vercel.app/)
+- 👨‍💻 All of my projects are available at [mayurportfolio-six.vercel.app/](https://mayurportfolio-six.vercel.app/)
 
 - 💬 Ask me about **React, Python, Java, C++**
 
